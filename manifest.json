@@ -1,0 +1,8 @@
+{
+  "name": "Newsfeed Container Widget",
+  "description": "Zeigt ein Newsfeed innerhalb eines scrollbaren Containers an.",
+  "version": "1.0.0",
+  "js": ["widget.js"],
+  "css": ["style.css"],
+  "html": "index.html"
+}
