@@ -5,4 +5,5 @@
   "js": ["widget.js"],
   "css": ["style.css"],
   "html": "index.html"
+  "icon": "path/to/icon.png"
 }
